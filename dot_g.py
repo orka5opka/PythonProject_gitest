@@ -1,3 +1,1 @@
-print("hi git h!")
-
-brbrbbr = 0
+a=4
